@@ -8,7 +8,7 @@ class Solution {
         
         while(mid <= high){
             if(nums[mid] == 2){
-                //logic for swapping a number
+                //logic for swapping two numbers
                 // a = b.also { b = a }
                 nums[mid] = nums[high].also {nums[high] = nums[mid]}
                 --high
