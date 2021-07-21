@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/find-the-duplicate-number
 
 class Solution {
     fun findDuplicate(nums: IntArray): Int {
