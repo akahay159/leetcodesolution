@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/intersection-of-two-linked-lists/
 
 class Solution {
     fun getIntersectionNode(headA:ListNode?, headB:ListNode?):ListNode? {
