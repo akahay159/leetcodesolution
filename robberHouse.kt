@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/house-robber
-
+// brute force approach will give TLE
+// use dp concept for not getting TLE
 class Solution {
     fun solution(nums: IntArray, start: Int, end:Int): Int{
         if(start > end){
