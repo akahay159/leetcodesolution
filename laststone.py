@@ -1,6 +1,7 @@
 '''
 https://leetcode.com/problems/last-stone-weigh
-
+Time -> O(nlogn)
+Space -> O(n)
 '''
 
 class Solution:
