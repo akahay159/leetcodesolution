@@ -1,6 +1,6 @@
 class Solution {
     
-    fun rob(nums: IntArray): Int {
+     fun rob(nums: IntArray): Int {
         var n = nums.size
         var max_value = 0
         if(n == 0){
